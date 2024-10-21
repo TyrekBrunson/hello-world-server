@@ -1,0 +1,27 @@
+.assignment {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+.image-container {
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+.links a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #333;
+}
+
+.links a:hover {
+    color: #007BFF;
+}
+
